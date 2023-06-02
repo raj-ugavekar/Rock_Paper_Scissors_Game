@@ -2,7 +2,7 @@
 
 Rock Paper and Scissors  Game using JAVA
 
-In this project, Rock Paper Scissor Game is created using Java.
+In this project, Rock Paper Scissor Game is implemented using Java.
 
 Rules for playing the game are:
 0 - Rock.
